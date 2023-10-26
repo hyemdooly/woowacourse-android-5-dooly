@@ -25,5 +25,5 @@
 |뷰 챌린지|[레포지토리](https://github.com/hyemdooly/android-paint/tree/hyemdooly)|[1단계 PR](https://github.com/woowacourse/android-paint/pull/14)|[2단계 PR](https://github.com/woowacourse/android-paint/pull/38)|[3단계 PR](https://github.com/woowacourse/android-paint/pull/51)
 
 
-## 글쓰기
+## Soft Skill - 글쓰기
 [글쓰기 레포지토리](https://github.com/hyemdooly/woowa-writing-5/tree/hyemdooly)
