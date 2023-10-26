@@ -53,3 +53,6 @@
 
 ## Soft Skill - 글쓰기
 [글쓰기 레포지토리](https://github.com/hyemdooly/woowa-writing-5/tree/hyemdooly)
+
+## 테코톡
+[Localization 테코톡](https://youtu.be/pXb1viEtEsE?si=VD_N0LmVb5JxPjJs)
